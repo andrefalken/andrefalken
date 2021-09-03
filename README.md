@@ -41,6 +41,5 @@ Here I am presenting myself in English language 🇺🇸!
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://thumbs.gfycat.com/BoringEdibleAmericansaddlebred-max-1mb.gif">
-![Snake animation](https://github.com/andrefalken/andrefalken/blob/output/github-contribution-grid-snake.svg)
+  <img align="right" alt="Rafa-yoda" src="https://thumbs.gfycat.com/BoringEdibleAmericansaddlebred-max-1mb.gif">   
 </div>
