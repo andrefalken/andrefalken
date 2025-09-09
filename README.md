@@ -1,33 +1,46 @@
-# Oi, meu nome é André! 👋 
-Segue a minha apresentação em Português do Brasil 🇧🇷!
-
-- 🔭 Eu estou atualmente trabalhando com Desenvolvimento UI/UX e Desenvolvimento para Dispositivos Móveis
-- 🌱 Atualmente eu estou aprendendo Git e GitHub
-- 👯 Eu estou buscando colaborar em Desenvolvimento para Dispositivos Móveis
-- 🤔 Estou precisando de ajuda com Dart
-- 💬 Me pergunte sobre Python
-- 📫 Como me achar: andre_falken@hotmail.com
-- 😄 Pronomes de tratamento: você, ocê (para uso somente em Minas Gerais 🏴󠁢󠁲󠁭󠁧󠁿)
-- ⚡ Ditado engraçado:
-    - 😌 Pessoa 1 diz: Somente os idiotas tem certeza daquilo que dizem.
-    - 😏 Pessoa 2 diz: Tem certeza?
-    - 😌 Pessoa 1 diz: Sim!
-    - 😏 Pessoa 2 diz: 😎😂
-
 # Hi there, my name is André! 👋
 Here I am presenting myself in English language 🇺🇸!
-- 🔭 I'm currently working with UI/UX Development and Mobile Device Development
-- 🌱 I’m currently learning Git and Github
-- 👯 I’m looking to collaborate on Mobile Device Development
-- 🤔 I’m looking for help with Dart
-- 💬 Ask me about Python
-- 📫 How to reach me: andre_falken@hotmail.com
-- 😄 Pronouns: you
+- 🔭 I'm currently searching about AI and Data Science
+- 🌱 I’m currently learning AI, Data and Python
+- 👯 I’m looking to collaborate on Data Analytics, Big Data, etc
+- 🤔 I’m looking for help with improving my skills with Data Science and Python
+- 📫 How to reach me: linkedin.com/in/andre-luis-romualdo/ 
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact:
-    - 😌 Person 1 says: Only idiots are sure about what they say.
-    - 😏 Person 2 says: Are you sure?
-    - 😌 Person 1 says: Yes!
-    - 😏 Person 2 says: 😎😂
+    - 😌 João says: Only idiots are sure about what they say.
+    - 😏 Maria says: Are you sure?
+    - 😌 João says: Yes!
+    - 😏 Maria says: 😎😂
+
+
+# ¡Hola, me llamo André! 👋
+¡Aquí me presento en español 🇪🇸!
+- 🔭 Actualmente estoy buscando sobre IA y Ciencia de Datos.
+- 🌱 Actualmente estoy aprendiendo IA, Datos y Python.
+- 👯 Busco colaborar en Análisis de Datos, Big Data, etc.
+- 🤔 Busco ayuda para mejorar mis habilidades con Ciencia de Datos y Python.
+- 📫 Cómo contactarme: linkedin.com/in/andre-luis-romualdo/
+- 😄 Pronombres: él/él
+- ⚡ Dato curioso:
+- 😌 João dice: Solo los idiotas están seguros de lo que dicen.
+- 😏 Maria dice: ¿Estás seguro?
+- 😌 João dice: ¡Sí!
+- 😏 María dice: 😎😂
+
+
+# Oi, meu nome é André! 👋 
+Segue a minha apresentação em Português do Brasil 🇧🇷!
+- 🔭 Eu estou atualmente pesquisando sobre AI e Data Science
+- 🌱 Atualmente eu estou aprendendo AI, Data and Python
+- 👯 Eu estou buscando colaborar em Data Analytics, Big Data, etc
+- 🤔 Estou precisando de ajuda pra aprimorar minhas habilidades com Data Science e Python
+- 📫 Como me achar: linkedin.com/in/andre-luis-romualdo/ 
+- 😄 Pronomes de tratamento: ele/dele ou você, ocê (para uso somente em Minas Gerais ☕)
+- ⚡ Ditado engraçado:
+    - 😌 João diz: Somente os idiotas tem certeza daquilo que dizem.
+    - 😏 Maria diz: Tem certeza?
+    - 😌 João diz: Sim!
+    - 😏 Maria diz: 😎😂
 
  <div>
   <a href="https://github.com/rafaballerini">
