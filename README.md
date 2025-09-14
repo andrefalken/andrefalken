@@ -22,10 +22,10 @@ Here I am presenting myself in English language 🇺🇸!
 - 📫 Cómo contactarme: linkedin.com/in/andre-luis-romualdo/
 - 😄 Pronombres: él/él
 - ⚡ Dato curioso:
-- 😌 João dice: Solo los idiotas están seguros de lo que dicen.
-- 😏 Maria dice: ¿Estás seguro?
-- 😌 João dice: ¡Sí!
-- 😏 María dice: 😎😂
+    - 😌 João dice: Solo los idiotas están seguros de lo que dicen.
+    - 😏 Maria dice: ¿Estás seguro?
+    - 😌 João dice: ¡Sí!
+    - 😏 María dice: 😎😂
 
 
 # Oi, meu nome é André! 👋 
@@ -43,16 +43,16 @@ Segue a minha apresentação em Português do Brasil 🇧🇷!
     - 😏 Maria diz: 😎😂
 
  <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrefalken&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/andrefalken">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrefalken&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefalken&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://thumbs.gfycat.com/BoringEdibleAmericansaddlebred-max-1mb.gif">   
-</div>
+  <img align="center" alt="Andre_Azure" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg">
+  <img align="center" alt="Andre_Anaconda" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg">
+  <img align="center" alt="Andre_GoogleColab" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg">
+  <img align="center" alt="Andre_Github" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Andre_MySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Andre_Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Andre_PyCharm" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original-wordmark.svg">
