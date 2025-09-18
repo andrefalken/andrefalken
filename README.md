@@ -56,3 +56,9 @@ Segue a minha apresentação em Português do Brasil 🇧🇷!
   <img align="center" alt="Andre_MySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Andre_Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Andre_PyCharm" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original-wordmark.svg">
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrefalken/andrefalken/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrefalken/andrefalken/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrefalken/andrefalken/output/github-contribution-grid-snake.svg">
+</picture>
