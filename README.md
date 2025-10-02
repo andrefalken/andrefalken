@@ -1,5 +1,5 @@
 # Hi there, my name is André! 👋
-Here I am presenting myself in English language 🇺🇸!
+Here I am presenting myself in English 🇺🇸!
 - 🔭 I'm currently searching about AI and Data Science
 - 🌱 I’m currently learning AI, Data and Python
 - 👯 I’m looking to collaborate on Data Analytics, Big Data, etc
@@ -14,7 +14,7 @@ Here I am presenting myself in English language 🇺🇸!
 
 
 # ¡Hola, me llamo André! 👋
-¡Aquí me presento en español 🇪🇸!
+¡Aquí me presento en Español 🇪🇸!
 - 🔭 Actualmente estoy buscando sobre IA y Ciencia de Datos.
 - 🌱 Actualmente estoy aprendiendo IA, Datos y Python.
 - 👯 Busco colaborar en Análisis de Datos, Big Data, etc.
@@ -29,7 +29,7 @@ Here I am presenting myself in English language 🇺🇸!
 
 
 # Oi, meu nome é André! 👋 
-Segue a minha apresentação em Português do Brasil 🇧🇷!
+Segue a minha apresentação em Português 🇧🇷!
 - 🔭 Eu estou atualmente pesquisando sobre AI e Data Science
 - 🌱 Atualmente eu estou aprendendo AI, Data and Python
 - 👯 Eu estou buscando colaborar em Data Analytics, Big Data, etc
