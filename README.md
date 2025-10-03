@@ -6,11 +6,7 @@ Here I am presenting myself in English 🇺🇸!
 - 🤔 I’m looking for help with improving my skills with Data Science and Python
 - 📫 How to reach me: linkedin.com/in/andre-luis-romualdo/ 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact:
-    - 😌 João says: Only idiots are sure about what they say.
-    - 😏 Maria says: Are you sure?
-    - 😌 João says: Yes!
-    - 😏 Maria says: 😎😂
+- ⚡ Know all the theories, master all the techniques, but when touching a human soul, be just another human soul - Carl Jung
 
 
 # ¡Hola, me llamo André! 👋
@@ -21,11 +17,7 @@ Here I am presenting myself in English 🇺🇸!
 - 🤔 Busco ayuda para mejorar mis habilidades con Ciencia de Datos y Python.
 - 📫 Cómo contactarme: linkedin.com/in/andre-luis-romualdo/
 - 😄 Pronombres: él/él
-- ⚡ Dato curioso:
-    - 😌 João dice: Solo los idiotas están seguros de lo que dicen.
-    - 😏 Maria dice: ¿Estás seguro?
-    - 😌 João dice: ¡Sí!
-    - 😏 María dice: 😎😂
+- ⚡ Conozca todas las teorías, domine todas las técnicas, pero cuando toques un alma humana, sé simplemente otra alma humana  - Carl Jung
 
 
 # Oi, meu nome é André! 👋 
@@ -36,11 +28,7 @@ Segue a minha apresentação em Português 🇧🇷!
 - 🤔 Estou precisando de ajuda pra aprimorar minhas habilidades com Data Science e Python
 - 📫 Como me achar: linkedin.com/in/andre-luis-romualdo/ 
 - 😄 Pronomes de tratamento: ele/dele ou você, ocê (para uso somente em Minas Gerais ☕)
-- ⚡ Ditado engraçado:
-    - 😌 João diz: Somente os idiotas tem certeza daquilo que dizem.
-    - 😏 Maria diz: Tem certeza?
-    - 😌 João diz: Sim!
-    - 😏 Maria diz: 😎😂
+- ⚡ Conheça todas as teorias, domine todas as técnicas, mas ao tocar uma alma humana, seja apenas outra alma humana  - Carl Jung
 
  <div>
   <a href="https://github.com/andrefalken">
